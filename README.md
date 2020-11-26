@@ -14,20 +14,20 @@
 ## 2) Processing
 ```bash
 
-2.1 Generate records:
-  * 2.1.1: Unzip ABP_PPG.ziṕ
-    or
-  * 2.1.2: Run main.m
+* 2.1 Generate processed records running main.m or unzip ABP_PPG.zip
+
 ```
 
 ## 3) Deep_learning
 
 ```
+
 This codes were runned into the Google Colaboratory enviroment.
 
 Please pay attention to:
 
        "/content/gdrive/My\ Drive/ADJUST TO YOUR PATH"
 
-and adjust it to your local path.
+and adjust it to your corresponding local path.
+
 ```
