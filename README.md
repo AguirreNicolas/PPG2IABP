@@ -1,4 +1,4 @@
-# Blood Pressure Morphology Estimation from Photoplethysmogram and Clinical Information Using a Sequence-to-Sequence Model with Attention
+# Blood Pressure Morphology Assessment from Photoplethysmogram and Demographic Information Using Deep Learning with Attention Mechanism
 
 ## 1) Pre-processing
 
