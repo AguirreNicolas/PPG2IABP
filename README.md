@@ -1,4 +1,4 @@
-# Mean Arterial Blood Pressure Morphology from Photoplethysmogram Raw Signal and Clinical Information Applying a Seq2seq Deep Learning Model with Attention
+# Blood Pressure Morphology Assessment from Photoplethysmogram and Demographic Information Using Deep Learning with Attention Mechanism
 
 ## 1) Pre-processing
 
