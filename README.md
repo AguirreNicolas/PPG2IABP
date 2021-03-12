@@ -1,3 +1,5 @@
+Cite the code: [![DOI](https://zenodo.org/badge/316075215.svg)](https://zenodo.org/badge/latestdoi/316075215)
+
 # Blood Pressure Morphology Assessment from Photoplethysmogram and Demographic Information Using Deep Learning with Attention Mechanism
 
 ## 1) Pre-processing
